@@ -1,0 +1,15 @@
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\bin\Debug\ErkanRijosSLab6.exe.config
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\bin\Debug\ErkanRijosSLab6.exe
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\bin\Debug\ErkanRijosSLab6.pdb
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\bin\Debug\ErkanRijosSLab6.xml
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.vbproj.AssemblyReference.cache
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.birthdayDatabaseForm.resources
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.Resources.resources
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.vbproj.GenerateResource.cache
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.vbproj.CoreCompileInputs.cache
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.exe
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.xml
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.pdb
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.DataGridDisplayForm.resources
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.databaseServerSplashScreen.resources
+E:\CST 226 Adv. VB\Lab 6\ErkanRijosSLab6\obj\Debug\ErkanRijosSLab6.NoDataGridDisplayForm.resources
